@@ -83,7 +83,11 @@ for m in meds:  #une ligne par médicament
     })
 
 df = pd.DataFrame(rows).sort_values("Start").reset_index(drop=True) #création du dataframe final avec tri dans l'ordre 
-df.head(3)
+
+# Export CSV sur le Bureau
+out_csv = Path.home() / "Desktop" / "table_medicaments.csv"
+df.to_csv(out_csv, index=False, encoding="utf-8-sig")
+print("CSV créé :", out_csv)
 
 def show_context(doc, start, end, window=80):
     left = max(0, start - window)
