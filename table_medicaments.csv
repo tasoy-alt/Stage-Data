@@ -1,0 +1,40 @@
+﻿Medicament,Dosage,Frequence,Voie,Date,Start,End
+metformine,1000 mg,x2/j,per,,84,94
+ramipril,5 mg,1 cp le,per,,116,124
+atorvastatine,20 mg,le soir.,per,J3,145,158
+furosémide,40 mg,x2/j,IV,J3,190,200
+Ramipril,20 mg/j.,,,J3,297,305
+furosémide,20 mg/j.,,,,316,326
+tramadol,100 mg,matin et soir,,Après 5 jours,421,429
+paracétamol,1 g,x3/j.,,Après 5 jours,456,467
+Tramadol,50 mg,x3/j.,,Après 5 jours,527,535
+warfarine,5 mg/j,x1/j,,,625,634
+amiodarone,200 mg,x1/j,,02/04.,690,700
+Warfarine,3 mg/j.,x1/j,,48h,756,765
+salbutamol,18 µg/j.,,inhalé,,860,870
+tiotropium,18 µg/j.,,inhalé,,883,893
+prednisone,40 mg/j,,inhalé,J4.,913,923
+Sertraline,50 mg/j,avant,,S2.,1078,1088
+zolpidem,5 mg,le,,S2.,1212,1220
+Ibuprofène,400 mg,x3/j,,,1290,1300
+ténofovir,245 mg/j,,,M3,1472,1481
+emtricitabine,200 mg/j,,,M3,1493,1506
+dolutégravir,50 mg/j.,,,M3,1518,1530
+ténofovir,50 mg/j.,,,M3,1608,1617
+INFLIXIMAB,,,perfusions,"06,05.2019.",4045,4055
+METOJECT,400 mg,toutes les huit semaines,perfusions,"06,05.2019.",4106,4114
+HUMIRA,40 mg,tous les 15,SC,,4348,4354
+METHOTREXATE,20 mg/sem,,per,,4458,4470
+AZATHIOPRINE,150 mg/j,,IV,"03,06,2019",4745,4757
+METOJECT,25 mg/sem,le,SC,,5085,5093
+acide folique,5 mg,le,SC,,5109,5122
+SOLU-MEDROL,1 g/j,le,bolus,02/11/2017,5174,5185
+prednisone,60 mg/j,,per os,"04/11/2017.
+Relais",5254,5264
+ENBREL,50 mg/sem,,,"2019.
+Arrêt",5354,5360
+ENBREL,400 mg,toutes les 8,IV,"2019.
+Arrêt",5439,5445
+INFLIXIMAB,400 mg,toutes les 8,IV,12/02/2019,5475,5485
+prednisone,15 mg/j,toutes les 8,IV,,5545,5555
+REMICADE,400 mg,toutes les 8,perfusion IV,"06,02.2017",5784,5792
