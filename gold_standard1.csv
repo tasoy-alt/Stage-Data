@@ -1,0 +1,92 @@
+﻿Medicament,Dosage,Frequence,Voie d'administration,Date,Date_relative,Condition
+metformine,1000 mg,x2/j,per os,,,
+ramipril,5 mg,1 cp le matin,,,,
+atorvastatine,20 mg,le soir.,,,,
+furosémide,40 mg,x2/j,IV,,,Introduction
+Ramipril,,,,,J3,suspendu
+furosémide,20 mg/j.,,,,,diminué
+tramadol,100 mg,matin et soir,,,,Mise
+paracétamol,1 g,x3/j.,,,,Mise
+Tramadol,50 mg,x2/j,,,Après 5 jours,arrêté | repris | arrêt
+warfarine,,,,,,
+amiodarone,200 mg,x1/j,,02/04.,,Introduction
+Warfarine,3 mg,,,,J7 | 48h,arrêtée | reprise
+salbutamol,,,inhalé,,,
+tiotropium,18 µg,j.,,,,
+prednisone,40 mg,j,,,7 jours. | J4.,Mise
+insuline rapide,,avant repas,,,,Introduction
+Sertraline,50 mg | 100 mg/j | 75 mg,j,,10/01,,débutée
+zolpidem,5 mg,le soir.,,,,Ajout
+Ibuprofène,400 mg,x3/j,,,1 semaine,pdt 1 semaine
+AINS,,,,,,stoppé
+hydratation,"1,5 L",,IV,,24h,stoppé
+ARV,,,,,,
+ténofovir,245 mg/j,,,,,
+emtricitabine,200 mg/j,,,,,
+dolutégravir,50 mg/j.,,,,,
+ténofovir,,,,,,Suspicion | switch
+Atorvastatine,40 mg,le soir,,,depuis 6 mois,
+statine,,10 mg,,,après 1 mois,Réintroduction
+Topiramate,25 mg | 100 mg | 50 mg,j,,,,titré | Réduction
+bisoprolol,5 mg,j,,,,
+spironolactone ,25 mg,j,,,,
+ramipril ,10 mg,j,,,,
+sacubitril,49,x2/j,,,,Introduction
+valsartan,51 mg,x2/j,,,,Introduction
+Méthotrexate,15 mg,sem SC,,,,
+acide folique,5 mg,sem,,,,
+triméthoprime,160 mg,x2/j,,,,
+Lamotrigine,200 mg,j,,,,
+valproate,500 mg,x2/j,,,,
+ lamotrigine,,,,J10,,
+Donépézil,10 mg,j,,,,
+halopéridol,1 mg,x2/j,,,,Introduction
+Halopéridol,,,,,,stoppé
+Alendronate,70 mg,sem,per os,,,Suspension
+ Insuline,24 UI,le soir,,,,
+glargine,24 UI | 18 UI.,le soir,,,,Diminution
+metformine ,850 mg,x2/j,,,,
+glargine,,,,,,
+Amlodipine,10 mg,j,,,,
+losartan,100 mg,j,,,,
+hydrochlorothiazide,25 mg,j,,,,
+Amlodipine ,5 mg,,,,,réduite
+Alprazolam,"0,5 mg",x3/j,,,plusieurs mois,depuis | arrêt | Reprise
+capécitabine,1250 mg/m² | 1000 mg/m²,x2/j,,J12,14 j/21,
+Allopurinol,300 mg,j,,01/03 | J8,,
+Apixaban,5 mg,x2/j,,,,
+aspirine,75 mg,j,,,,
+corticoïdes,15mg/kg,,,,,réintroduit
+INFLIXIMAB,,,perfusions,"06,05.2019.",,
+METOJECT,,,,,,poursuivi.
+Infliximab,400 mg,toutes les huit semaines,,,,
+corticothérapie,4 mg,,,18/10/2019.,,actuellement
+HUMIRA,40 mg,tous les 15,SC,,,réintroduite
+corticothérapie,"0,5 mg/kg",j,per,,,réintroduite
+METHOTREXATE,20 mg,sem,,,,"maintenu.
+Mise en place"
+INFLIXIMAB,5 mg/kg,"S0, S2, S6 | toutes les 8 semaines",perfusions,,,
+prednisone,"7,5 mg",j,,12.01.2020.,,
+AZATHIOPRINE,150 mg,j,,,,
+corticoïdes,20 mg,j.,,,,
+INFLIXIMAB,400 mg,,IV,"03,06,2019",,puis
+Corticothérapie,40 mg | 30 → 20 → 10 mg,j,,,,augmentée transitoirement | décroissance
+METOJECT,25 mg,sem,SC,,lendemain,
+acide folique,5 mg,le,bolus,,lendemain,
+SOLU-MEDROL,1 g/j,le,bolus | IV | per os,"02/11/2017 | 04/11/2017.
+Relais",3 j,
+prednisone,60 mg/j | 10 mg,sem,per os,,,puis | décroissance
+INFLIXIMAB,5 mg/kg,,,15.12.2017.,,
+ENBREL,50 mg,sem,,,2016 | 2019,
+ENBREL,,,,12/02/2019,,Arrêt | switch
+INFLIXIMAB,400 mg,toutes les 8,IV,,,switch
+prednisone,15 mg | 5 mg,j,,18/09/2019,,
+corticoïdes,faibles doses | 5 mg | 25 mg,j,,,10 jours,Augmentation
+REMICADE,400 mg,toutes les 8 semaines,perfusion IV,"06,02.2017",,Mise en place | puis
+METOJECT,15 mg,sem,,,,
+CICLOSPORINE,150 mg | 100 mg,x2/j,,21/05/2020,depuis 3 mois.,Diminution | arrêt
+TACROLIMUS,2 mg,x2/j,,,,Introduction
+METHOTREXATE,20 mg,sem,,,,
+HUMIRA,40 mg,tous les 15 j,,,,
+corticothérapie,"0,3 mg/kg",j,per os.,,,Réintroduction
+INFLIXIMAB,5 mg/kg,,,01.07.2018,,à compter
